@@ -45,17 +45,24 @@ img {
   border: none;
 }
 
-#suitTop {
+#suitTop,
+#suitTop2,
+#suitTop3,
+#suitTop4 {
   font-size: 70px;
 }
 
-#suitBottom {
+#suitBottom,
+#suitBottom2,
+#suitBottom3,
+#suitBottom4 {
   font-size: 70px;
   transform: rotate(180deg);
 }
 
 button {
   background-color: lightblue !important;
+  margin: 0 100px !important;
 }
 button:hover {
   background-color: rgb(108, 204, 236) !important;
